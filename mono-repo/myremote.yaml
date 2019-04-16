@@ -11,7 +11,7 @@ spec:
   deployments:
   - containers:
     - dockerfile: microservices/nginx/Dockerfile
-      name: myapp
+      name: app
       path: microservices/nginx
     name: myapp
   manifests:
