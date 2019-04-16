@@ -21,4 +21,5 @@ spec:
       path: mono-repo/microservices/nginx
       dockerfile: mono-repo/microservices/nginx/Dockerfile
   authorizedKeys:
-  - "ssh-rsa <key>"
+  - "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQD3dnRyBqLmRPkROo9++Ul1WbR8bPdbGF1WHja7ysL11TcRReg9ecw+6l/Rz5FpC8v2Hfa3Hae5Sc/P2qUxyXE8McLoch0hoVCWZWJrEWlF3LfpSXMDGRKDh4VndA+Z/GclUW0mS+RjGQER1++rYIHnNVfXQVpcZWZf6AJOK8witNHhHo3Apcb6wDQrMcUygZN/zNqfjD+JsceUbadqY74OuWs8ffJSxZNbhuhs1cof92k2KFZPt61tKw+osoM6t16rMiRi88qqgg/LWT6iea9Fi970zqKLfxbHW1bPl/e9078RDt86Koen8MaPK7zM1h2MrqDJUTeSJAqsXRL3YRgYGPm4EcHOlgyoaYuD5jb/xEoKv2/3vluKmK0oMP1RR/5rJNgq+LB8kLZzENo85RoT6y+hO/deHYB/J1D0BiNH2YxvXnC3SZFOGlqMLetsANcFjJPPcTn7eVeIPcbfoVK9efmzxed+0T8biKX8v/6eZYHg45N95PmaJGRiCLeQ7+elIHfok+DOBjMXECTQN76r0urabGFh5LdBRa6+FzxSZfWvgH0D3HvKoESIMlKGdy9H0PgVcpGpT/YPyATYGbLSbatuqfFLLZGetE3Q5omwQ4fj8OG8S8eUMrC7VQqYtfqetB9EBzLUNM5imINynXxgiYTtqyhU8gaBGoPbGUgu9w== bartosz.d.wrobel@gmail.com"
+  
