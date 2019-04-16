@@ -12,7 +12,7 @@ spec:
   - containers:
     - dockerfile: microservices/nginx/Dockerfile
       name: myapp
-      path: microservice/nginx
+      path: microservices/nginx
     name: myapp
   manifests:
     helm: {}
